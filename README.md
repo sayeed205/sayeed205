@@ -1,5 +1,7 @@
+<div align="center">
 <img src="https://raw.githubusercontent.com/sayeed205/sayeed205/master/header.svg">
-
+</div>
+  
 ### I love to code and solve problems
 
 ### I love to watch anime and read manga
@@ -15,4 +17,6 @@
 <!--END_SECTION:activity-->
 
 ## 🎶 Vibing to
+<div align="center">
 [![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=31wgrcodyvofq7iqkfg45v2uftl4&cover_image=true&theme=default&bar_color_cover=true)](https://open.spotify.com/user/31wgrcodyvofq7iqkfg45v2uftl4)
+</div>
