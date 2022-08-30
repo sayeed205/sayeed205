@@ -15,4 +15,4 @@
 <!--END_SECTION:activity-->
 
 ## 🎶 Vibing to
-[![Spotify]([https://github-spotify-nu.vercel.app/api?scan=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=31wgrcodyvofq7iqkfg45v2uftl4&cover_image=true&theme=default&bar_color_cover=true))](https://open.spotify.com/user/31wgrcodyvofq7iqkfg45v2uftl4)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=31wgrcodyvofq7iqkfg45v2uftl4&cover_image=true&theme=default&bar_color_cover=true)](https://open.spotify.com/user/31wgrcodyvofq7iqkfg45v2uftl4)
