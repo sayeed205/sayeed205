@@ -1,9 +1,6 @@
 <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
-            <style>
-            @import url('https://fonts.googleapis.com/css2?family=Nunito');
-            </style>
 			<style type="text/css">
 
 				@keyframes gradientBackground {
@@ -18,25 +15,7 @@
 					}
 				}
 
-                :root {
-                    --color-bg-varient: #2d2d6f;
-                    --color-primary: #4db5ff;
-                    --color-primary-varient: rgba(77, 181, 255, 0.4);
-                }
-                
-                .container {
-                    background: url("https://raw.githubusercontent.com/sayeed205/sayeed205/master/assets/bg-texture.png");
-                    background-color: var(--color-bg-varient);
-                    font-family: "Nunito", sans-serif;
-                    display: flex;
-                    flex-direction: column;
-                    align-items: center;
-                    color: black;
-                    height: 400px;
-                    border-radius: 15px;
-                }
-
-				header div {
+				.container {
                     font-family: 'Nunito', sans-serif;
 					display: flex;
 					flex-direction: column;
@@ -60,15 +39,9 @@
                 }
 			</style>
 			<div class="container">
-                <header>
-                    <div>
                         <h3>Hello I'm</h3>
                         <h2>SAYED AHMED</h2>
                         <h4>Full Stack Web Developer</h4>
-                    </div>
-                </header>
-                <main></main>
-                <footer></footer>
 			</div>
 		</div>
 	</foreignObject>
