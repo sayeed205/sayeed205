@@ -18,5 +18,7 @@
 
 ## 🎶 Vibing to
 <div align="center">
-[![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=31wgrcodyvofq7iqkfg45v2uftl4&cover_image=true&theme=default&bar_color_cover=true)](https://open.spotify.com/user/31wgrcodyvofq7iqkfg45v2uftl4)
+  <a href="https://open.spotify.com/user/31wgrcodyvofq7iqkfg45v2uftl4">
+    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31wgrcodyvofq7iqkfg45v2uftl4&cover_image=true&theme=default&bar_color_cover=true" alt="Spotify"
+         </a>
 </div>
