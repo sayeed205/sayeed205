@@ -9,11 +9,11 @@
 ---
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8](https://github.com/scaryrawr/winwal/issues/8) in [scaryrawr/winwal](https://github.com/scaryrawr/winwal)
-2. ❗️ Opened issue [#219](https://github.com/STRDCoders/jackett-api/issues/219) in [STRDCoders/jackett-api](https://github.com/STRDCoders/jackett-api)
-3. ❗️ Closed issue [#2](https://github.com/sayeed205/Heroku-Switcher/issues/2) in [sayeed205/Heroku-Switcher](https://github.com/sayeed205/Heroku-Switcher)
-4. 🗣 Commented on [#2](https://github.com/sayeed205/Heroku-Switcher/issues/2) in [sayeed205/Heroku-Switcher](https://github.com/sayeed205/Heroku-Switcher)
-5. 🗣 Commented on [#3](https://github.com/sayeed205/Heroku-Switcher/issues/3) in [sayeed205/Heroku-Switcher](https://github.com/sayeed205/Heroku-Switcher)
+1. 🗣 Commented on [#9267](https://github.com/ScoopInstaller/Extras/issues/9267) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
+2. ❗️ Opened issue [#9267](https://github.com/ScoopInstaller/Extras/issues/9267) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
+3. 💪 Opened PR [#9266](https://github.com/ScoopInstaller/Extras/pull/9266) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
+4. ❗️ Opened issue [#8](https://github.com/scaryrawr/winwal/issues/8) in [scaryrawr/winwal](https://github.com/scaryrawr/winwal)
+5. ❗️ Opened issue [#219](https://github.com/STRDCoders/jackett-api/issues/219) in [STRDCoders/jackett-api](https://github.com/STRDCoders/jackett-api)
 <!--END_SECTION:activity-->
 
 ## 🎶 Vibing to
