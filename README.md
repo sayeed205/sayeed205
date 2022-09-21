@@ -9,11 +9,11 @@
 ---
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/sayeed205/Heroku-Switcher/issues/4) in [sayeed205/Heroku-Switcher](https://github.com/sayeed205/Heroku-Switcher)
-2. 🗣 Commented on [#4](https://github.com/sayeed205/Heroku-Switcher/issues/4) in [sayeed205/Heroku-Switcher](https://github.com/sayeed205/Heroku-Switcher)
-3. 🗣 Commented on [#9267](https://github.com/ScoopInstaller/Extras/issues/9267) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
-4. ❗️ Opened issue [#9267](https://github.com/ScoopInstaller/Extras/issues/9267) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
-5. 💪 Opened PR [#9266](https://github.com/ScoopInstaller/Extras/pull/9266) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
+1. ❗️ Opened issue [#9274](https://github.com/ScoopInstaller/Extras/issues/9274) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
+2. ❗️ Closed issue [#4](https://github.com/sayeed205/Heroku-Switcher/issues/4) in [sayeed205/Heroku-Switcher](https://github.com/sayeed205/Heroku-Switcher)
+3. 🗣 Commented on [#4](https://github.com/sayeed205/Heroku-Switcher/issues/4) in [sayeed205/Heroku-Switcher](https://github.com/sayeed205/Heroku-Switcher)
+4. 🗣 Commented on [#9267](https://github.com/ScoopInstaller/Extras/issues/9267) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
+5. ❗️ Opened issue [#9267](https://github.com/ScoopInstaller/Extras/issues/9267) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
 <!--END_SECTION:activity-->
 
 ## 🎶 Vibing to
