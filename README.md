@@ -9,11 +9,11 @@
 ---
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9266](https://github.com/ScoopInstaller/Extras/issues/9266) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
-2. ❗️ Closed issue [#9275](https://github.com/ScoopInstaller/Extras/issues/9275) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
-3. 🗣 Commented on [#9275](https://github.com/ScoopInstaller/Extras/issues/9275) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
-4. 🗣 Commented on [#9266](https://github.com/ScoopInstaller/Extras/issues/9266) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
-5. ❗️ Opened issue [#9275](https://github.com/ScoopInstaller/Extras/issues/9275) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
+1. ❗️ Closed issue [#9274](https://github.com/ScoopInstaller/Extras/issues/9274) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
+2. 🗣 Commented on [#9274](https://github.com/ScoopInstaller/Extras/issues/9274) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
+3. 🗣 Commented on [#9266](https://github.com/ScoopInstaller/Extras/issues/9266) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
+4. ❗️ Closed issue [#9275](https://github.com/ScoopInstaller/Extras/issues/9275) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
+5. 🗣 Commented on [#9275](https://github.com/ScoopInstaller/Extras/issues/9275) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
 <!--END_SECTION:activity-->
 
 ## 🎶 Vibing to
