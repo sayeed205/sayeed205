@@ -9,11 +9,11 @@
 ---
 ## ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#66](https://github.com/Romanitho/Winget-Install-GUI/issues/66) in [Romanitho/Winget-Install-GUI](https://github.com/Romanitho/Winget-Install-GUI)
-2. ❗️ Opened issue [#66](https://github.com/Romanitho/Winget-Install-GUI/issues/66) in [Romanitho/Winget-Install-GUI](https://github.com/Romanitho/Winget-Install-GUI)
-3. ❗️ Opened issue [#62](https://github.com/ScoopInstaller/Nonportable/issues/62) in [ScoopInstaller/Nonportable](https://github.com/ScoopInstaller/Nonportable)
-4. ❗️ Closed issue [#9274](https://github.com/ScoopInstaller/Extras/issues/9274) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
-5. 🗣 Commented on [#9274](https://github.com/ScoopInstaller/Extras/issues/9274) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
+1. ❗️ Opened issue [#9745](https://github.com/ScoopInstaller/Extras/issues/9745) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
+2. 🗣 Commented on [#66](https://github.com/Romanitho/Winget-Install-GUI/issues/66) in [Romanitho/Winget-Install-GUI](https://github.com/Romanitho/Winget-Install-GUI)
+3. ❗️ Opened issue [#66](https://github.com/Romanitho/Winget-Install-GUI/issues/66) in [Romanitho/Winget-Install-GUI](https://github.com/Romanitho/Winget-Install-GUI)
+4. ❗️ Opened issue [#62](https://github.com/ScoopInstaller/Nonportable/issues/62) in [ScoopInstaller/Nonportable](https://github.com/ScoopInstaller/Nonportable)
+5. ❗️ Closed issue [#9274](https://github.com/ScoopInstaller/Extras/issues/9274) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
 <!--END_SECTION:activity-->
 
 ## 🎶 Vibing to
